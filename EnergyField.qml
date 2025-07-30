@@ -5,7 +5,7 @@ import QtQuick.Layouts 1.15
 Rectangle {
 
     id: root
-    width: 200
+    width: 150
     height: 30
 
     RowLayout
