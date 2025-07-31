@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>Components/EnergyField.qml</file>
+        <file>Components/CustomButton.qml</file>
+        <file>Components/CustomLabel.qml</file>
     </qresource>
 </RCC>
